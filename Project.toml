@@ -3,6 +3,14 @@ uuid = "4a835faa-ba2d-4b6b-a28b-a6b5f4e870ef"
 authors = ["Aaron Graybill <aarongraybill12@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Example = "7876af07-990d-54b4-ab0e-23690620f79a"
+Expectations = "2fe49d83-0758-5602-8f54-1f90ad0d522b"
+PkgTemplates = "14b8a8f1-9102-5b29-a752-f990bacb7fe1"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
 [compat]
 julia = "1.7"
 
