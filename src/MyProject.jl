@@ -9,7 +9,7 @@ function foo(μ = 1., σ = 2.)
     return E(x -> sin(x))
 end
 
-export foo
+export foo, f
 
 f()=π
 end # module
