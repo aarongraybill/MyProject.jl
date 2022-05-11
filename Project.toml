@@ -1,0 +1,13 @@
+name = "MyProject"
+uuid = "4a835faa-ba2d-4b6b-a28b-a6b5f4e870ef"
+authors = ["Aaron Graybill <aarongraybill12@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
