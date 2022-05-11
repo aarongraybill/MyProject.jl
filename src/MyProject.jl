@@ -11,6 +11,5 @@ end
 
 export foo
 
-f()=3
-
+f()=π
 end # module
